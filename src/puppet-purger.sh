@@ -33,7 +33,7 @@ quiet="false"
 # functions 
 #
 # delete puppet reports which are older than $days
-# orginal code from https://groups.google.com/d/msg/puppet-users/q8vWDr3bn4Q/nsjpAHPsvrEJ
+# orginal code idea from https://groups.google.com/d/msg/puppet-users/q8vWDr3bn4Q/nsjpAHPsvrEJ
 purgeReports()
 {
   local nodes
