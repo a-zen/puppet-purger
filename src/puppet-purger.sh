@@ -73,7 +73,7 @@ usage()
   echo ""
   echo "This script deletes puppet reports file which are older than the"
   echo "given number of days. The newest report will always be not deleted,"
-  echo "even if it's older than the given number of days"
+  echo "even if it's older than the given number of days."
   echo ""
   echo "Usage: ${SCRIPTNAME} [-h] [-v] [-q] [-s] [-d report directory]"
   echo "                   [ -n file age in days]"
